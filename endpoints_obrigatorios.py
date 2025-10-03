@@ -11,7 +11,7 @@ app = FastAPI(
     title="API Tech Challenge",
     version="1.0.0",
     description="Trabalho Fase 1"
-)
+    )
 
 
 # Caminho do banco de dados
